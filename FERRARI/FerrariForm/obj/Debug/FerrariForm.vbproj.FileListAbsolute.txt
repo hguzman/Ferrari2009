@@ -1,0 +1,16 @@
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\bin\Debug\FerrariForm.exe.config
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\FerrariForm.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\FerrariForm.exe
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\FerrariForm.xml
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\FerrariForm.pdb
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\FerrariForm.FListaValores.resources
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\FerrariForm.Form1.resources
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\FerrariForm.frmCaja.resources
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\FerrariForm.frmConsultaCartera.resources
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\FerrariForm.LoginForm.resources
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\FerrariForm.MenuPrincipal.resources
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\FerrariForm.Resources.resources
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\FerrariForm.frmPersonas.resources
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Henrry Guzman\Mis documentos\Software\VisualNet\Ferrari2009\FERRARI\FerrariForm\obj\Debug\GenerateResource.write.1.tlog
